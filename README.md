@@ -1,4 +1,4 @@
-# Pan-African_P-O_ECHO
+# Pan-African Psycho-Oncology ECHO
 
 ## Disseminating Evidence-Based Practices in Psycho-Oncology in Africa to Improve Cancer Prevention and Cancer Care
 
